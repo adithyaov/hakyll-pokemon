@@ -1,0 +1,5 @@
+_cache/*
+dist/*
+dist-newstyle/*
+*.swp
+*.swo
